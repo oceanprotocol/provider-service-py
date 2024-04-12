@@ -33,7 +33,7 @@ install_requirements = [
     "eciespy==0.3.11",
     "coincurve>=13,<15",
     "ipaddress==1.0.23",
-    "dnspython==2.2.1",
+    "dnspython==2.6.1",
     "flask-sieve==1.3.1",
     "SQLAlchemy==1.3.23",
     "redis==4.5.4",
