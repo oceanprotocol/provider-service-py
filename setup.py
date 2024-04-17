@@ -27,7 +27,7 @@ install_requirements = [
     "flask-swagger==0.2.14",
     "flask-swagger-ui==3.25.0",
     "Jinja2>=2.10.1,<3.1",
-    "gunicorn==20.0.4",
+    "gunicorn==22.0.0",
     "coloredlogs==15.0.1",
     "Werkzeug==2.0.3",
     "eciespy==0.3.11",
